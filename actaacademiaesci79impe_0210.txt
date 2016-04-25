@@ -1,0 +1,50 @@
+Tab. ῙῘ.
+Fig. 3.
+
+u&3)164(5ffloe
+
+que sollicitatarum definietur3 vbi quidem tam virgam
+quam potentias perpetuo in eodem plano fitas effe affu-
+mo. Demonstrationem autem horum lemmatum non ad·-
+do, quoniam eam alio loco iam dedi, atque adeo etiam
+ad eos casus, quibus motus non fit in eodem plano, ac->
+commodaui.
+
+Lfflnmal.
+
+ξ. 1. Si virgae tutcunque elastivae EYF in fin-
+gulis elementis potentiae quaecunque fuerim applicatae, sta-
+tum aequilibrii definire.
+
+Solutia
+
+Referatur virga ad axem fixum OV‚ et pro eius
+punito quocunque Y statuantur coordinatae orthogonales
+O X :x et XYzy, portio autem virgae E Y: s, vt fit
+ds² t: dx² -ξ- dy²; tum vero elementi Yy :z ds fit mas-
+sa :Sds‚ ac in eodem loco elasticitas absoluta ΖΨ, ita
+vt, posito radio osculi :r‚ vis, seu potius momentum
+elasticitatis s1t :}; hincque, loco r substituta formula dif-
+
+serenum, istud momentum erit
+
+..-.v(d‘yddx—dxddy)'
+'- ds³
+
+ 
+
+ 
+
+vbi scilicet nullum differentiale pro constanti est assum-
+
+· tum. Deinde omnes potentiae, quibus hoc elementum Yy
+
+sollicitatur, resoluantur tecundum dired‘tiones coordinatarum, ⁴
+ac ponatur vis inde secundum diretftionem YP resultans
+Ξ Ρ ds et secundum directionem Y Q z: Q ds: quibus
+posuis pro statu aequilibrii requiritur, vt fit
+sdysPds-sdxsstzV(-—-2⁶¹W³2¹²⁶-d=xd<¹ ).
+
+d 5³
+Praeter
+
